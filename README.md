@@ -1,2 +1,2 @@
 # Supermarket
-Supermarket web project based with Django.
+Supermarket web project based on Django.
